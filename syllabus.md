@@ -1,3 +1,18 @@
+Electronics Syllabus:
+
+1: Material Science
+2: Bio Science and technology
+3: Intriduction to electronics
+4: Signal and system
+5:Environmental Science Technology and Management
+6:Network Theory
+7:Digital electronics
+
+
+Finance Syllabus:
+1:Environmental Science Technology and Management
+2:
+
 Computer sciecnce syllbus
 
 1: Mathematics
