@@ -19,7 +19,9 @@ List of companies:
   1.4 Meta 
   1.5 
 
-
+Music Theory:
+1: learn english music theory and practice on keyboard 
+2:
 
 Electronics Syllabus:
 
