@@ -1,3 +1,26 @@
+Job Search
+1: linkedin
+2: Naukri
+3: Indeed
+
+
+
+Bible:
+1: meditation 
+2:
+
+
+
+List of companies:
+1: product based companies   
+  1.1 Microsoft
+  1.2 Google
+  1.3 Apple
+  1.4 Meta 
+  1.5 
+
+
+
 Electronics Syllabus:
 
 1: Material Science
