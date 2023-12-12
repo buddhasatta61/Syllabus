@@ -9,7 +9,9 @@ Bible:
 1: meditation 
 2:
 
-
+physics
+1: mathematical physics 
+2: newtonian mechanics
 
 List of companies:
 1: product based companies   
